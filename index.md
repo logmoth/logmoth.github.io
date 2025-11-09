@@ -8,5 +8,5 @@ permalink: /
 sections:
   - title: Latest posts
     url: /blog/
-    collection: posts
+  
 ---
