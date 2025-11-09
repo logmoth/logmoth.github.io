@@ -1,3 +1,4 @@
 title: Logmoth's Blog
 description: My personal blog powered by Jekyll
-theme: jekyll-theme-midnight
+theme: minimal-mistakes-jekyll
+
