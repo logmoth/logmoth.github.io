@@ -1,10 +1,15 @@
+---
+layout: default
+title: Logmoth's Blog
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Logmoth's Blog</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}" />
 </head>
 <body>
   <!-- Navbar -->
@@ -12,33 +17,37 @@
     <div class="nav-container">
       <h1 class="logo">Logmoth's Blog</h1>
       <ul class="nav-links">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/about' | relative_url }}">About</a></li>
+        <li><a href="{{ '/blog' | relative_url }}">Blog</a></li>
+        <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
       </ul>
     </div>
   </nav>
 
   <!-- Main Content -->
   <div class="container">
-    <div class="post">
-      <h2>My First Post</h2>
-      <p>This is a sample blog post hosted on GitHub Pages 🚀.</p>
-      <a href="#">Read more</a>
-    </div>
+    <h2>Latest posts</h2>
 
-    <div class="post">
-      <h2>Another Post</h2>
-      <p>Here’s another placeholder entry to show how multiple posts look.</p>
-      <a href="#">Read more</a>
-    </div>
+    {% if site.posts == empty %}
+      <p>No posts found. Create files in the <code>_posts</code> folder using the required filename and front matter.</p>
+    {% endif %}
+
+    {% for post in site.posts %}
+      <article class="post">
+        <h3 class="post-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h3>
+        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 250 }}</p>
+        <p><a href="{{ post.url | relative_url }}">Read more</a></p>
+      </article>
+    {% endfor %}
   </div>
 
   <!-- Footer -->
   <footer>
-    © 2025 Logmoth. All rights reserved.
+    © {{ site.time | date: "%Y" }} Logmoth. All rights reserved.
   </footer>
 </body>
 </html>
-
