@@ -1,6 +1,18 @@
-title: Logmoth
-description: My personal blog powered by Jekyll
-theme: no-style-please
-plugins:
+title: "Logmoth"
+name: "Logmoth"
+description: "My personal blog powered by Jekyll"
+url: "https://logmoth.github.io"
+baseurl: ""
 
+theme: null
+remote_theme: riggraz/no-style-please
+
+plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-feed
+
+defaults: []
+
+markdown: kramdown
+highlighter: rouge
