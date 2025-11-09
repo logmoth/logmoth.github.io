@@ -1,5 +1,5 @@
 ---
-layout: home
+
 title: Welcome
 subtitle: Logmoth's Blog
 permalink: /
