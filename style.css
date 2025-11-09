@@ -1,0 +1,63 @@
+/* Reset some default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base styles */
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+  padding: 2rem;
+}
+
+/* Headings */
+h1, h2, h3 {
+  margin-bottom: 1rem;
+  font-weight: 600;
+  color: #222;
+}
+
+/* Links */
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Container */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Blog post card */
+.post {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.post h2 {
+  margin-bottom: 0.5rem;
+}
+
+.post p {
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #666;
+}
