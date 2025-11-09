@@ -1,6 +1,6 @@
 title: Logmoth
 description: My personal blog powered by Jekyll
-remote_theme: mmistakes/minimal-mistakes
+theme: no-style-please
 plugins:
 
   - jekyll-seo-tag
