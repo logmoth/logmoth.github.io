@@ -1,5 +1,9 @@
 /* Add any custom styles here if needed */
 
+html, body {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+}
+
 
 /* Example: Custom link colors */
 /*
