@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Welcome to My Blog"
+title: "Welcome to My Blog!"
 date: 2024-01-01 12:00:00 +0000
 categories: announcement
 ---
-
-# Welcome to My Blog!
 
 This is my first blog post. I'm excited to start sharing my thoughts and experiences here.
 
