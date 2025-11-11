@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Home
+title: Welcome to My Space
 ---
-
-# Welcome to My Space
 
 Hi, I'm Rishi. This is my minimalist corner of the internet where I share my thoughts, projects, and experiences.
 
