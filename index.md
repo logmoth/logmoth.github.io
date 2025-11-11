@@ -1,16 +1,26 @@
---- 
+---
+layout: home
+title: Home
+---
 
-layout: home 
-title: Welcome 
-subtitle: Logmoth's Blog 
-permalink: / 
+# Welcome to My Space
 
-# Show latest posts in sections using the theme's collection helpers
-# You can configure the panels/sections below as needed 
-sections:
+Hi, I'm Rishi. This is my minimalist corner of the internet where I share my thoughts, projects, and experiences.
 
-- title: Latest
-- posts url: /blog/
-- collection: posts
+## What You'll Find Here
+
+- **Blog**: My writings on technology, life, and everything in between
+- **Portfolio**: Projects I've worked on and things I've built
+- **About**: A bit more about me and what I do
+
+Feel free to explore and reach out if you'd like to connect!
 
 ---
+
+## Recent Posts
+
+{% for post in site.posts limit:5 %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+[View all posts →](/blog)
