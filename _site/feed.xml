@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-11-11T23:45:01+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rishi’s Blog</title><subtitle>A minimalist blog about technology, creativity, and life.</subtitle><author><name>Rishi</name></author><entry><title type="html">My Second Post</title><link href="http://localhost:4000/blog/2025/11/09/my-second-test-post/" rel="alternate" type="text/html" title="My Second Post" /><published>2025-11-09T00:00:00+05:30</published><updated>2025-11-09T00:00:00+05:30</updated><id>http://localhost:4000/blog/2025/11/09/my-second-test-post</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/09/my-second-test-post/"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>]]></content><author><name>Rishi</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></summary></entry><entry><title type="html">3rd post yo</title><link href="http://localhost:4000/blog/2025/11/09/my-third-post/" rel="alternate" type="text/html" title="3rd post yo" /><published>2025-11-09T00:00:00+05:30</published><updated>2025-11-09T00:00:00+05:30</updated><id>http://localhost:4000/blog/2025/11/09/my-third-post</id><content type="html" xml:base="http://localhost:4000/blog/2025/11/09/my-third-post/"><![CDATA[<p>some fresh content</p>]]></content><author><name>Rishi</name></author><summary type="html"><![CDATA[some fresh content]]></summary></entry><entry><title type="html">Welcome to My Blog!</title><link href="http://localhost:4000/blog/2024/01/01/my-first-post/" rel="alternate" type="text/html" title="Welcome to My Blog!" /><published>2024-01-01T17:30:00+05:30</published><updated>2024-01-01T17:30:00+05:30</updated><id>http://localhost:4000/blog/2024/01/01/my-first-post</id><content type="html" xml:base="http://localhost:4000/blog/2024/01/01/my-first-post/"><![CDATA[<p>This is my first blog post. I’m excited to start sharing my thoughts and experiences here.</p>
+
+<h2 id="what-to-expect">What to Expect</h2>
+
+<p>I’ll be writing about:</p>
+
+<ul>
+  <li>Technology and programming</li>
+  <li>Personal projects and experiments</li>
+  <li>Lessons learned along the way</li>
+  <li>Interesting ideas and discoveries</li>
+</ul>
+
+<h2 id="why-minimalism">Why Minimalism?</h2>
+
+<p>I chose a minimalist theme because I believe content should be front and center. No distractions, just pure reading experience.</p>
+
+<p>Stay tuned for more posts!</p>
+
+<hr />
+
+<p><em>Thanks for reading!</em></p>]]></content><author><name>Rishi</name></author><category term="announcement" /><summary type="html"><![CDATA[This is my first blog post. I’m excited to start sharing my thoughts and experiences here.]]></summary></entry></feed>
