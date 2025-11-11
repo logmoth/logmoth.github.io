@@ -1,10 +1,8 @@
 ---
 layout: page
-title:
+title: Portfolio
 permalink: /portfolio/
 ---
-
-# Portfolio
 
 ## Projects
 
