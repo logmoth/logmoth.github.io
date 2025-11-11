@@ -9,9 +9,9 @@ Hi, I'm Rishi. This is my minimalist corner of the internet where I share my tho
 
 ## What You'll Find Here
 
-- **Blog**: My writings on technology, life, and everything in between
-- **Portfolio**: Projects I've worked on and things I've built
-- **About**: A bit more about me and what I do
+- [Blog]({% link blog.md %}): My writings on technology, life, and everything in between
+- [Portfolio]({% link portfolio.md %}): Projects I've worked on and things I've built
+- [About]({% link about.md %}): A bit more about me and what I do
 
 Feel free to explore and reach out if you'd like to connect!
 
