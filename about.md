@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title: About Me
 permalink: /about/
 ---
-
-# About Me
 
 Hi! I'm Rishi, a [your profession/interest] based in [your location].
 
