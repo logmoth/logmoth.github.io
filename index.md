@@ -13,8 +13,6 @@ Hi, I'm Rishi Sagar. This is my minimalist corner of the internet where I share 
 
 Feel free to explore and reach out if you'd like to connect!
 
-
-
 ---
 
 ## Recent Posts
