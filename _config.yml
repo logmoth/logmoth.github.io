@@ -1,7 +1,7 @@
 # Site settings
 title: Rishi's Blog
 author: Rishi
-email: your-email@example.com
+email: rishisagar2001@gmail.com
 description: >-
   A minimalist blog about technology, creativity, and life.
 baseurl: ""
@@ -18,20 +18,6 @@ collections:
   posts:
     output: true
     permalink: /blog/:year/:month/:day/:title/
-
-# Navigation menu
-menu:
-  - title: home
-    url: /
-  - title: blog
-    url: /blog
-  - title: portfolio
-    url: /portfolio
-  - title: about
-    url: /about
-  - title: github
-    url: https://github.com/logmoth
-    external: true
 
 # Theme customization
 theme_config:
