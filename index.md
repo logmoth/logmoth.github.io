@@ -3,7 +3,7 @@ layout: home
 title: Welcome to My Space
 ---
 
-Hi, I'm Rishi. This is my minimalist corner of the internet where I share my thoughts, projects, and experiences.
+Hi, I'm Rishi Sagar. This is my minimalist corner of the internet where I share my thoughts, projects, and experiences.
 
 ## What You'll Find Here
 
@@ -12,6 +12,8 @@ Hi, I'm Rishi. This is my minimalist corner of the internet where I share my tho
 - [About]({% link about.md %}): A bit more about me and what I do
 
 Feel free to explore and reach out if you'd like to connect!
+
+
 
 ---
 
