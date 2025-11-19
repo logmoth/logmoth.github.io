@@ -27,13 +27,6 @@ Goodbye for now, and keep growing,
 
 Rishi
 
-## Connect
-
-- Email: [rishisagar2001@gmail.com](mailto:rishisagar2001@gmail.com)
-- Twitter: [@weaseltoad](https://x.com/weaseltoad)
-- LinkedIn: [Rishi Sagar](https://www.linkedin.com/in/rishisagar/)
-- GitHub: [@logmoth](https://github.com/logmoth)
-
 ---
 
 *This site is built with Jekyll and hosted on GitHub Pages.*
