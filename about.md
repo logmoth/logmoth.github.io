@@ -15,7 +15,3 @@ Hi! I'm Rishi Sagar. Here’s some trivia about me:
 - Favorite book: [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game), by Orson Scott Card
 - Mildly superstitious about: socks
 - Word I have the most positive connotations with: whimsy!
-
----
-
-*This site is built with Jekyll and hosted on GitHub Pages.*
