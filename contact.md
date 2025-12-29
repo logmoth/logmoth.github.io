@@ -12,3 +12,4 @@ permalink: /contact/
 - Instagram: [@weaseltoad](https://www.instagram.com/weaseltoad/)
 - Letterboxd: [@weaseltoad](https://letterboxd.com/weaseltoad/)
 - GitHub: [@logmoth](https://github.com/logmoth)
+- Goodreads: [Rishi Sagar](https://www.goodreads.com/user/show/104723185-rishi-sagar)
